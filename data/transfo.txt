@@ -1,0 +1,11 @@
+image1.pgm courbe1.amp 5 image1_t.pgm
+image2.pgm courbe2.amp 5 image2_t.pgm
+image3.pgm courbe3.amp 5 image3_t.pgm
+image4.pgm courbe4.amp 4 image4_t.pgm
+image5.pgm courbe5.amp 7 image5_t.pgm
+image6.pgm courbe6.amp 6 image6_t.pgm
+image7.pgm courbe7.amp 9 image7_t.pgm
+image8.pgm courbe8.amp 5 image8_t.pgm
+image9.pgm courbe9.amp 7 image9_t.pgm
+image10.pgm courbe10.amp 9 image10_t.pgm
+
